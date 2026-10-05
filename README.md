@@ -5,7 +5,7 @@ CaptureOne won't allow you to use Keywords in filename exports, but only has a n
 As a consequence I end up with keyworded files, and no way to meaningfully name exported files.
 
 Installation:
- * Create folder %USERPROFILE%\.keyswap , and add it to your PATH envvar:
+ * Create folder %USERPROFILE%\.tools\keyswap , and add it to your PATH envvar:
  * * C:\> setx path "%PATH%;C:\path\to\directory\"
  * Add all files from repository to the folder you just created above.
 
